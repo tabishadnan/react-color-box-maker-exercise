@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Box from './Box';
 
-class BoxMaker extends Component {
+class BoxForm extends Component {
 
     state = {
         width : '',
@@ -47,7 +47,7 @@ class BoxMaker extends Component {
 
     render() {
         return (
-            <div className="BoxMaker">
+            <div className="BoxForm">
                 <form onSubmit={this.handleSubmit}>
                     <p>
                         <label htmlFor="width">Width : </label>
@@ -72,4 +72,4 @@ class BoxMaker extends Component {
     }
 }
 
-export default BoxMaker;
+export default BoxForm;

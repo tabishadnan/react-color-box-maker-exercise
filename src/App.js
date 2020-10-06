@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css';
-import BoxMaker from './Components/BoxMaker';
+import BoxForm from './Components/BoxForm';
 
 function App() {
   return (
     <div className="App">
       <h1>React BoxMaker Thingy</h1>
-      <BoxMaker />
+      <BoxForm />
     </div>
   );
 }
