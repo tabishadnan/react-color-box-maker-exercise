@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-color-box-maker-exercise/static/css/main.9c52340c.chunk.css",
+    "main.js": "/react-color-box-maker-exercise/static/js/main.10926a2e.chunk.js",
+    "main.js.map": "/react-color-box-maker-exercise/static/js/main.10926a2e.chunk.js.map",
+    "runtime-main.js": "/react-color-box-maker-exercise/static/js/runtime-main.2e4fcc15.js",
+    "runtime-main.js.map": "/react-color-box-maker-exercise/static/js/runtime-main.2e4fcc15.js.map",
+    "static/js/2.a1f3f4c1.chunk.js": "/react-color-box-maker-exercise/static/js/2.a1f3f4c1.chunk.js",
+    "static/js/2.a1f3f4c1.chunk.js.map": "/react-color-box-maker-exercise/static/js/2.a1f3f4c1.chunk.js.map",
+    "index.html": "/react-color-box-maker-exercise/index.html",
+    "precache-manifest.e605305188a6367322f05ce5c219cab9.js": "/react-color-box-maker-exercise/precache-manifest.e605305188a6367322f05ce5c219cab9.js",
+    "service-worker.js": "/react-color-box-maker-exercise/service-worker.js",
+    "static/css/main.9c52340c.chunk.css.map": "/react-color-box-maker-exercise/static/css/main.9c52340c.chunk.css.map",
+    "static/js/2.a1f3f4c1.chunk.js.LICENSE.txt": "/react-color-box-maker-exercise/static/js/2.a1f3f4c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e4fcc15.js",
+    "static/js/2.a1f3f4c1.chunk.js",
+    "static/css/main.9c52340c.chunk.css",
+    "static/js/main.10926a2e.chunk.js"
+  ]
+}
